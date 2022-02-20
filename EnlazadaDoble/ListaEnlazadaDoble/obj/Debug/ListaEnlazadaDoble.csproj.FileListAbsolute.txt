@@ -1,0 +1,8 @@
+C:\Users\USUARIO\source\repos\ListaEnlazadaDoble\ListaEnlazadaDoble\bin\Debug\ListaEnlazadaDoble.exe.config
+C:\Users\USUARIO\source\repos\ListaEnlazadaDoble\ListaEnlazadaDoble\bin\Debug\ListaEnlazadaDoble.exe
+C:\Users\USUARIO\source\repos\ListaEnlazadaDoble\ListaEnlazadaDoble\bin\Debug\ListaEnlazadaDoble.pdb
+C:\Users\USUARIO\source\repos\ListaEnlazadaDoble\ListaEnlazadaDoble\obj\Debug\ListaEnlazadaDoble.csproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\ListaEnlazadaDoble\ListaEnlazadaDoble\obj\Debug\ListaEnlazadaDoble.csproj.SuggestedBindingRedirects.cache
+C:\Users\USUARIO\source\repos\ListaEnlazadaDoble\ListaEnlazadaDoble\obj\Debug\ListaEnlazadaDoble.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\ListaEnlazadaDoble\ListaEnlazadaDoble\obj\Debug\ListaEnlazadaDoble.exe
+C:\Users\USUARIO\source\repos\ListaEnlazadaDoble\ListaEnlazadaDoble\obj\Debug\ListaEnlazadaDoble.pdb
