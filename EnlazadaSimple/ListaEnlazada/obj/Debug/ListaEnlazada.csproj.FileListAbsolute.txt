@@ -1,0 +1,14 @@
+C:\Users\USUARIO\OneDrive\UPB\TercerSemestre\Estructuras\ListaEnlazada\ListaEnlazada\bin\Debug\ListaEnlazada.exe
+C:\Users\USUARIO\OneDrive\UPB\TercerSemestre\Estructuras\ListaEnlazada\ListaEnlazada\bin\Debug\ListaEnlazada.pdb
+C:\Users\USUARIO\OneDrive\UPB\TercerSemestre\Estructuras\ListaEnlazada\ListaEnlazada\obj\Debug\ListaEnlazada.csproj.AssemblyReference.cache
+C:\Users\USUARIO\OneDrive\UPB\TercerSemestre\Estructuras\ListaEnlazada\ListaEnlazada\obj\Debug\ListaEnlazada.csproj.SuggestedBindingRedirects.cache
+C:\Users\USUARIO\OneDrive\UPB\TercerSemestre\Estructuras\ListaEnlazada\ListaEnlazada\obj\Debug\ListaEnlazada.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\OneDrive\UPB\TercerSemestre\Estructuras\ListaEnlazada\ListaEnlazada\obj\Debug\ListaEnlazada.exe
+C:\Users\USUARIO\OneDrive\UPB\TercerSemestre\Estructuras\ListaEnlazada\ListaEnlazada\obj\Debug\ListaEnlazada.pdb
+C:\Users\zarat\OneDrive\UPB\TercerSemestre\Estructuras\ListaEnlazada\ListaEnlazada\bin\Debug\ListaEnlazada.exe
+C:\Users\zarat\OneDrive\UPB\TercerSemestre\Estructuras\ListaEnlazada\ListaEnlazada\bin\Debug\ListaEnlazada.pdb
+C:\Users\zarat\OneDrive\UPB\TercerSemestre\Estructuras\ListaEnlazada\ListaEnlazada\obj\Debug\ListaEnlazada.csproj.AssemblyReference.cache
+C:\Users\zarat\OneDrive\UPB\TercerSemestre\Estructuras\ListaEnlazada\ListaEnlazada\obj\Debug\ListaEnlazada.csproj.SuggestedBindingRedirects.cache
+C:\Users\zarat\OneDrive\UPB\TercerSemestre\Estructuras\ListaEnlazada\ListaEnlazada\obj\Debug\ListaEnlazada.csproj.CoreCompileInputs.cache
+C:\Users\zarat\OneDrive\UPB\TercerSemestre\Estructuras\ListaEnlazada\ListaEnlazada\obj\Debug\ListaEnlazada.exe
+C:\Users\zarat\OneDrive\UPB\TercerSemestre\Estructuras\ListaEnlazada\ListaEnlazada\obj\Debug\ListaEnlazada.pdb
