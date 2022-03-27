@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gbxD2Noga/m9j95njy7HlsBzpHgdLudTudaZPBupnECgEohJmA+n5J5HQL9woscbBphDixHf6wwx5ViGAYo2Kg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zarat\\OneDrive\\UPB\\TercerSemestre\\Estructuras\\EstructurasFinalizadas\\ListaCircularSimple\\ListaCircularSimple\\ListaCircularSimple.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zarat\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

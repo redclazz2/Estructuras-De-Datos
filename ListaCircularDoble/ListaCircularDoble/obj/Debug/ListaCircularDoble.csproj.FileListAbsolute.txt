@@ -1,0 +1,8 @@
+C:\Users\zarat\source\repos\ListaCircularDoble\ListaCircularDoble\bin\Debug\ListaCircularDoble.exe.config
+C:\Users\zarat\source\repos\ListaCircularDoble\ListaCircularDoble\bin\Debug\ListaCircularDoble.exe
+C:\Users\zarat\source\repos\ListaCircularDoble\ListaCircularDoble\bin\Debug\ListaCircularDoble.pdb
+C:\Users\zarat\source\repos\ListaCircularDoble\ListaCircularDoble\obj\Debug\ListaCircularDoble.csproj.AssemblyReference.cache
+C:\Users\zarat\source\repos\ListaCircularDoble\ListaCircularDoble\obj\Debug\ListaCircularDoble.csproj.SuggestedBindingRedirects.cache
+C:\Users\zarat\source\repos\ListaCircularDoble\ListaCircularDoble\obj\Debug\ListaCircularDoble.csproj.CoreCompileInputs.cache
+C:\Users\zarat\source\repos\ListaCircularDoble\ListaCircularDoble\obj\Debug\ListaCircularDoble.exe
+C:\Users\zarat\source\repos\ListaCircularDoble\ListaCircularDoble\obj\Debug\ListaCircularDoble.pdb

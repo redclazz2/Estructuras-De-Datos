@@ -1,0 +1,8 @@
+C:\Users\USUARIO\OneDrive\UPB\TercerSemestre\Estructuras\EstructurasFinalizadas\Cola\Cola\bin\Debug\Cola.exe.config
+C:\Users\USUARIO\OneDrive\UPB\TercerSemestre\Estructuras\EstructurasFinalizadas\Cola\Cola\bin\Debug\Cola.exe
+C:\Users\USUARIO\OneDrive\UPB\TercerSemestre\Estructuras\EstructurasFinalizadas\Cola\Cola\bin\Debug\Cola.pdb
+C:\Users\USUARIO\OneDrive\UPB\TercerSemestre\Estructuras\EstructurasFinalizadas\Cola\Cola\obj\Debug\Cola.csproj.AssemblyReference.cache
+C:\Users\USUARIO\OneDrive\UPB\TercerSemestre\Estructuras\EstructurasFinalizadas\Cola\Cola\obj\Debug\Cola.csproj.SuggestedBindingRedirects.cache
+C:\Users\USUARIO\OneDrive\UPB\TercerSemestre\Estructuras\EstructurasFinalizadas\Cola\Cola\obj\Debug\Cola.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\OneDrive\UPB\TercerSemestre\Estructuras\EstructurasFinalizadas\Cola\Cola\obj\Debug\Cola.exe
+C:\Users\USUARIO\OneDrive\UPB\TercerSemestre\Estructuras\EstructurasFinalizadas\Cola\Cola\obj\Debug\Cola.pdb

@@ -1,0 +1,8 @@
+C:\Users\zarat\Desktop\Pila\Pila\Pila\bin\Debug\Pila.exe.config
+C:\Users\zarat\Desktop\Pila\Pila\Pila\bin\Debug\Pila.exe
+C:\Users\zarat\Desktop\Pila\Pila\Pila\bin\Debug\Pila.pdb
+C:\Users\zarat\Desktop\Pila\Pila\Pila\obj\Debug\Pila.csproj.AssemblyReference.cache
+C:\Users\zarat\Desktop\Pila\Pila\Pila\obj\Debug\Pila.csproj.SuggestedBindingRedirects.cache
+C:\Users\zarat\Desktop\Pila\Pila\Pila\obj\Debug\Pila.csproj.CoreCompileInputs.cache
+C:\Users\zarat\Desktop\Pila\Pila\Pila\obj\Debug\Pila.exe
+C:\Users\zarat\Desktop\Pila\Pila\Pila\obj\Debug\Pila.pdb

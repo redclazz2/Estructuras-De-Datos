@@ -1,0 +1,16 @@
+C:\Users\zarat\OneDrive\UPB\TercerSemestre\Estructuras\EstructurasFinalizadas\Arbol\Arbol\bin\Debug\Arbol.exe.config
+C:\Users\zarat\OneDrive\UPB\TercerSemestre\Estructuras\EstructurasFinalizadas\Arbol\Arbol\bin\Debug\Arbol.exe
+C:\Users\zarat\OneDrive\UPB\TercerSemestre\Estructuras\EstructurasFinalizadas\Arbol\Arbol\bin\Debug\Arbol.pdb
+C:\Users\zarat\OneDrive\UPB\TercerSemestre\Estructuras\EstructurasFinalizadas\Arbol\Arbol\obj\Debug\Arbol.csproj.AssemblyReference.cache
+C:\Users\zarat\OneDrive\UPB\TercerSemestre\Estructuras\EstructurasFinalizadas\Arbol\Arbol\obj\Debug\Arbol.csproj.SuggestedBindingRedirects.cache
+C:\Users\zarat\OneDrive\UPB\TercerSemestre\Estructuras\EstructurasFinalizadas\Arbol\Arbol\obj\Debug\Arbol.csproj.CoreCompileInputs.cache
+C:\Users\zarat\OneDrive\UPB\TercerSemestre\Estructuras\EstructurasFinalizadas\Arbol\Arbol\obj\Debug\Arbol.exe
+C:\Users\zarat\OneDrive\UPB\TercerSemestre\Estructuras\EstructurasFinalizadas\Arbol\Arbol\obj\Debug\Arbol.pdb
+C:\Users\USUARIO\OneDrive\UPB\TercerSemestre\Estructuras\EstructurasFinalizadas\Arbol\Arbol\obj\Debug\Arbol.csproj.AssemblyReference.cache
+C:\Users\USUARIO\OneDrive\UPB\TercerSemestre\Estructuras\EstructurasFinalizadas\Arbol\Arbol\obj\Debug\Arbol.csproj.SuggestedBindingRedirects.cache
+C:\Users\USUARIO\OneDrive\UPB\TercerSemestre\Estructuras\EstructurasFinalizadas\Arbol\Arbol\obj\Debug\Arbol.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\OneDrive\UPB\TercerSemestre\Estructuras\EstructurasFinalizadas\Arbol\Arbol\obj\Debug\Arbol.exe
+C:\Users\USUARIO\OneDrive\UPB\TercerSemestre\Estructuras\EstructurasFinalizadas\Arbol\Arbol\obj\Debug\Arbol.pdb
+C:\Users\USUARIO\OneDrive\UPB\TercerSemestre\Estructuras\EstructurasFinalizadas\Arbol\Arbol\bin\Debug\Arbol.exe.config
+C:\Users\USUARIO\OneDrive\UPB\TercerSemestre\Estructuras\EstructurasFinalizadas\Arbol\Arbol\bin\Debug\Arbol.exe
+C:\Users\USUARIO\OneDrive\UPB\TercerSemestre\Estructuras\EstructurasFinalizadas\Arbol\Arbol\bin\Debug\Arbol.pdb
